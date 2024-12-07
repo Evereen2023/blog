@@ -1,0 +1,50 @@
+logo:
+  subtitle: 我崇拜流浪、变化和幻想。|Evereen Echoes
+
+menubar:
+  columns: 2
+  items:
+    - id: post
+      title: 文章
+      url: /
+    - id: about
+      title: 关于
+      url: https://evereen.site/
+
+footer:
+  sitemap:
+    联系:
+      - '[<i class="fa-solid fa-envelope"></i> Evereen2023@gmail.com](mailto:Evereen2023@gmail.com)'
+      - '[<i class="fa-brands fa-github"></i> Evereen2023](https://github.com/Evereen2023)'
+      - '[<i class="fa-brands fa-qq"></i> 3751108330](javascript:navigator.clipboard.writeText`3751108330`;)'
+    友链:
+      - '[<i class="fa-solid fa-link"></i> 纸鹿摸鱼处](https://blog.zhilu.cyou/)'
+    信息:
+      - '[<i class="fa-solid fa-palette"></i> Hexo主题: Stellar](https://github.com/xaoxuu/hexo-theme-stellar)'
+  content: ""
+
+search:
+  local_search:
+    field: post
+
+plugins:
+  copycode:
+    default_text: 复制
+    success_text: 已复制
+
+style:
+  font-family:
+    # logo: AlimamaFangYuanTi, HarmonyOS_Medium, system-ui, sans-serif
+    # body: HarmonyOS_Medium, system-ui, sans-serif
+    code: SFMono-Regular, Fira Code, JetBrains Mono, Cascadia Code, Monaco, Noto Sans Mono, Consolas, Droid Sans Mono, system-ui, monospace
+    codeblock: SFMono-Regular, Fira Code, JetBrains Mono, Cascadia Code, Monaco, Noto Sans Mono, Consolas, Droid Sans Mono, system-ui, monospace
+  # leftbar:
+  #   background-image: "url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?w=100), linear-gradient(60deg, #cde, #8ac)"
+
+inject:
+  head:
+    - <link rel="stylesheet" href="https://lib.baomitu.com/font-awesome/6.5.1/css/all.min.css" media="none" onload="this.media='all'">
+    - <link rel="stylesheet" href="https://thisis.host/static/patch.css">
+    - <link rel="stylesheet" href="https://thisis.host/static/patch-leftbar.css">
+  script:
+    # - <script src="/path/to/js"></script>
