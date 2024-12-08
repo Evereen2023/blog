@@ -104,3 +104,11 @@ theme: stellar
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# sitemap站点地图
+# 谷歌站点
+sitemap:
+  path: sitemap.xml
+# 百度站点
+baidusitemap: 
+  path: baidusitemap.xml
