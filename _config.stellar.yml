@@ -44,7 +44,7 @@ style:
 inject:
   head:
     - <link rel="stylesheet" href="https://lib.baomitu.com/font-awesome/6.5.1/css/all.min.css" media="none" onload="this.media='all'">
-    - <link rel="stylesheet" href="https://thisis.host/static/patch.css">
-    - <link rel="stylesheet" href="https://thisis.host/static/patch-leftbar.css">
+    - <link rel="stylesheet" href="/static/patch.css">
+    - <link rel="stylesheet" href="/static/patch-leftbar.css">
   script:
     # - <script src="/path/to/js"></script>
