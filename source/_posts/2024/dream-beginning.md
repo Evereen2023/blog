@@ -1,7 +1,7 @@
 ---
 title: 梦迹：起源
 description: 在六年级时，我做了一场梦，那场极度真实的梦开启了这一切。
-date: 2024-12-08 19:37
+date: 2024-12-10 23:15
 updated: 2024-12-09 00:19
 categories: [梦迹]
 type: story
