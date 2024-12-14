@@ -45,6 +45,7 @@ style:
 
 inject:
   head:
+    - <script defer src="https://status.eees.blog/script.js" data-website-id="8eed6af0-7da4-408c-ab8f-4156e19bf62c"></script>
     - <link rel="stylesheet" href="https://lib.baomitu.com/font-awesome/6.5.1/css/all.min.css" media="none" onload="this.media='all'">
     - <link rel="stylesheet" href="/static/patch.css">
     - <link rel="stylesheet" href="/static/patch-leftbar.css">
