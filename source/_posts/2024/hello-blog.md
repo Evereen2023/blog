@@ -5,7 +5,7 @@ date: 2024-12-07 21:43
 updated: 2024-12-07 22:53
 categories: [随笔]
 type: story
-status: 0
+hidden: false
 ---
 
 今天在 [纸鹿](https://blog.zhilu.cyou/ "博客：纸鹿摸鱼处") 的帮助下搭建了这个博客，由此，属于我的博客《唤青映记》正式落成。
