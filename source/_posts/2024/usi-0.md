@@ -2,7 +2,7 @@
 title: Usi：由梦而来，揉碎孤独
 description: 在那一场场奇怪的梦以后，我便产生了制作Usi的念头。
 date: 2024-12-15 01:31
-updated: 2024-12-17 00:50
+updated: 2024-12-17 01:21
 categories: [Usi]
 type: story
 hidden: false
