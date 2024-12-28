@@ -1,8 +1,8 @@
 ---
 title: 梦迹：家乡
 description: 在那个虚幻的家乡，我又见到了她。
-date: 2024-12-22 21:25:00  # 写作日期，并非做梦的日期
-updated: 2024-12-22 21:25:00 
+date: 2024-12-22 21:25  # 写作日期，并非做梦的日期
+updated: 2024-12-22 21:25
 categories: [梦迹]
 type: story
 cover: https://img.eseir.com/local/api/1/2024/12/1734775759524.png

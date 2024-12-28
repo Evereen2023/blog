@@ -1,27 +1,25 @@
 ---
 title: 诗集：轻夏
 description: 在轻浮的夏日里，海浪卷起尘封的梦。
-date: 2024-12-28 16:36:00
-updated: 2024-12-28 16:36:00
+date: 2024-12-28 16:36
+updated: 2024-12-28 21:26
 categories: [诗集, 2023]
 type: story
 cover: https://img.eseir.com/local/api/1/2024/12/cloudandsea.png
 banner: https://img.eseir.com/local/api/1/2024/12/cloudandseablur.png
 ---
 
-<!-- 前言，后续更改样式。 -->
-现在回想那时写诗的时光，真是轻浮，却又富有浪漫与希望。现在确是有些失落了，因我不知在合适早已丢掉了诗情与欢乐，还好，有这些诗可以让我回忆。这些诗大多无题，错字横生，于是在抄录时进行了小范围的修改。有些诗有配乐，我便也一同迁移过来了。在此，回到那些盛夏！
+{% note color:cyan 现在回想那时写诗的时光，真是轻浮，却又富有浪漫与希望。现在确是有些失落了，因我不知在合适早已丢掉了诗情与欢乐，还好，有这些诗可以让我回忆。这些诗大多无题，错字横生，于是在抄录时进行了小范围的修改。有些诗有配乐，我便也一同迁移过来了。若可以，在此，回到那盛夏！ %}
 
-<!-- 诗集 -->
 {% meting "28208212" "netease" "song" %}
-{% poetry 2023/03/02 author:Evereen %}
+{% poetry title author:Evereen footer:2023/03/02 %}
 飞机，行李，云。
 汽水，沙滩，海。
 藤蔓，鲜花，她。
 {% endpoetry %}
 
 {% meting "1458199729" "netease" "song" %}
-{% poetry 2023/03/02 author:Evereen %}
+{% poetry title author:Evereen footer:2023/03/02 %}
 那个夏天，
 都是她的气息。
 万物盛开，
@@ -47,7 +45,7 @@ banner: https://img.eseir.com/local/api/1/2024/12/cloudandseablur.png
 {% endpoetry %}
 
 {% meting "1311427648" "netease" "song" %}
-{% poetry 2023/03/12 author:Evereen %}
+{% poetry title author:Evereen footer:2023/03/12 %}
 希望能在夏天到来前，
 丢掉一切烦恼，
 因为快乐是留给大海的。
@@ -62,7 +60,7 @@ banner: https://img.eseir.com/local/api/1/2024/12/cloudandseablur.png
 {% endpoetry %}
 
 {% meting "1457681678" "netease" "song" %}
-{% poetry 2023/03/19 author:Evereen %}
+{% poetry title author:Evereen footer:2023/03/19 %}
 我所爱的夏天，
 也许就是——
 
@@ -80,7 +78,7 @@ banner: https://img.eseir.com/local/api/1/2024/12/cloudandseablur.png
 {% endpoetry %}
 
 {% meting "36921285" "netease" "song" %}
-{% poetry 2023/03/26 author:Evereen %}
+{% poetry title author:Evereen footer:2023/03/26 %}
 你曾经是水，
 使我生长；
 你曾经是山，
@@ -102,7 +100,11 @@ banner: https://img.eseir.com/local/api/1/2024/12/cloudandseablur.png
 {% endpoetry %}
 
 {% meting "1460244210" "netease" "song" %}
-{% poetry 2023/03/28（首版） author:Evereen %}
+
+{% tabs active:1 align:center %}
+
+<!-- tab 首版 -->
+{% poetry title author:Evereen footer:2023/03/28 %}
 我爱这云，还有海。
 或许是着云海之美，
 才会让我感到人间美好。
@@ -123,9 +125,9 @@ banner: https://img.eseir.com/local/api/1/2024/12/cloudandseablur.png
 一切都在爱着你，
 一切都是你。
 {% endpoetry %}
-
-{% meting "1460244210" "netease" "song" %}
-{% poetry 2023/03/28（发布版） author:Evereen %}
+<!-- endtab -->
+<!-- tab 发布版 -->
+{% poetry title author:Evereen footer:2023/03/28 %}
 我爱这云，还有海。
 或许是着云海之美，
 才会让我感到人间美好。
@@ -158,3 +160,6 @@ banner: https://img.eseir.com/local/api/1/2024/12/cloudandseablur.png
 那人感受到了爱，
 是那来自世间万物的爱。
 {% endpoetry %}
+<!-- endtab -->
+
+{% endtabs %}

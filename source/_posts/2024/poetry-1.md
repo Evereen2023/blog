@@ -2,7 +2,7 @@
 title: 诗集：在闲暇之余浪漫之时
 description: 闲时作诗。
 date: 2024-12-22
-updated: 2024-12-28 14:12:00
+updated: 2024-12-28 14:12
 categories: [诗集, 2024]
 type: story
 cover: https://img.eseir.com/local/api/1/2024/12/mountainsunset.png
