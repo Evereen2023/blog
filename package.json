@@ -28,6 +28,8 @@
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
     "hexo-server-live": "^0.2.12",
-    "hexo-theme-stellar": "^1.29.1"
+    "hexo-tag-aplayer": "^3.0.4",
+    "hexo-theme-stellar": "^1.29.1",
+    "pnpm": "^9.15.1"
   }
 }
