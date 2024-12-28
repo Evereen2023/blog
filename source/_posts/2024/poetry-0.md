@@ -5,8 +5,8 @@ date: 2024-07-24
 updated: 2024-12-22 21:21:00 
 categories: [在闲暇之余浪漫之时]
 type: story
-# cover: 
-# banner: 
+cover: https://img.eseir.com/local/api/1/2024/12/mountainsunset.png
+banner: https://img.eseir.com/local/api/1/2024/12/mountainsunsetblur.png
 ---
 
 {% poetry 在闲暇之余浪漫之时 author:Evereen %}

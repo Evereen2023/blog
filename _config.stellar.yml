@@ -2,14 +2,11 @@ logo:
   subtitle: 我崇拜流浪、变化和幻想 |Evereen Echoes
 
 menubar:
-  columns: 2
+  columns: 1
   items:
     - id: post
       title: 文章
       url: /
-    - id: about
-      title: 关于
-      url: https://evereen.site/
 
 footer:
   sitemap:
@@ -19,8 +16,6 @@ footer:
       - '[<i class="fa-brands fa-qq"></i> 3751108330](javascript:navigator.clipboard.writeText`3751108330`;)'
     友链:
       - '[<i class="fa-solid fa-link"></i> 纸鹿摸鱼处](https://blog.zhilu.cyou/)'
-    成就:
-      - '被列入纸鹿的友链'
     信息:
       - '[<i class="fa-solid fa-palette"></i> Hexo主题: Stellar](https://github.com/xaoxuu/hexo-theme-stellar)'
   content: ""
