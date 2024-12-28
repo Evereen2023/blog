@@ -1,8 +1,8 @@
 ---
 title: 诗集：轻夏
 description: 在轻浮的夏日里，海浪卷起尘封的梦。
-date: 2024-12-28
-updated:
+date: 2024-12-28 16:36:00
+updated: 2024-12-28 16:36:00
 categories: [诗集, 2023]
 type: story
 cover: https://img.eseir.com/local/api/1/2024/12/cloudandsea.png
