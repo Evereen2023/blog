@@ -11,7 +11,7 @@ banner: https://img.eseir.com/local/api/1/2024/12/mountainsunsetblur.png
 
 
 
-{% poetry 2024/06/07 author:Evereen %}
+{% poetry title author:Evereen footer:2024/06/07 %}
 海天边，看片片清云，
 是蓝天与碧海的邂逅。
 沙滩上，传阵阵鸥鸣，
@@ -24,7 +24,7 @@ banner: https://img.eseir.com/local/api/1/2024/12/mountainsunsetblur.png
 却是微笑着的你啊。
 {% endpoetry %}
 
-{% poetry 在闲暇之余浪漫之时（2024/07/24） author:Evereen %}
+{% poetry 在闲暇之余浪漫之时 author:Evereen footer:2024/07/24 %}
 落叶飘飘，微风习习。
 天边蒙着薄雾。
 抬头凝望，
