@@ -2,7 +2,7 @@
 title: 唤青映记：随性而起，尚真而记
 description: 2024年12月7日和纸鹿线上聊了许久，在他的帮助下搭建了这个博客，属于我的博客《唤青映记》正式落成。
 date: 2024-12-07 21:43
-updated: 2024-12-28 21:24
+updated: 2025-01-04 01:20
 categories: [随笔]
 type: story
 cover: https://wsrv.nl/?url=github.com/Evereen2023.png
@@ -25,4 +25,5 @@ banner: https://wsrv.nl/?url=github.com/Evereen2023.png
 
 公元二〇二四年十二月七日，唤青与纸鹿述。
 
-{% link https://blog.zhilu.cyou/ 纸鹿摸鱼处 icon:https://www.zhilu.cyou/api/avatar.png desc:纸鹿至麓不知路，支炉制露不止漉%}
+{% banner 纸鹿 纸鹿至麓不知路，支炉制露不止漉 avatar:https://www.zhilu.cyou/api/avatar.png bg:https://img.eseir.com/local/api/1/2025/01/1735924782935.png %}
+{% endbanner %}
