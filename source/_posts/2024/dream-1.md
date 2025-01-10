@@ -5,8 +5,8 @@ date: 2024-12-22 21:25  # 写作日期，并非做梦的日期
 updated: 2024-12-22 21:25
 categories: [梦迹]
 type: story
-cover: https://img.eseir.com/local/api/1/2024/12/1734775759524.png
-banner: https://img.eseir.com/local/api/1/2024/12/1734775759524.png
+cover: https://img.miasite.com/local/api/1/2024/12/1734775759524.png
+banner: https://img.miasite.com/local/api/1/2024/12/1734775759524.png
 ---
 
 {% meting "1462806841" "netease" "song"%}

@@ -5,8 +5,8 @@ date: 2024-12-22
 updated: 2024-12-28 14:12
 categories: [诗集, 2024]
 type: story
-cover: https://img.eseir.com/local/api/1/2024/12/mountainsunset.png
-banner: https://img.eseir.com/local/api/1/2024/12/mountainsunsetblur.png
+cover: https://img.miasite.com/local/api/1/2024/12/mountainsunset.png
+banner: https://img.miasite.com/local/api/1/2024/12/mountainsunsetblur.png
 ---
 
 

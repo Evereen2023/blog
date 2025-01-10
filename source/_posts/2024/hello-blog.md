@@ -25,5 +25,5 @@ banner: https://wsrv.nl/?url=github.com/Evereen2023.png
 
 公元二〇二四年十二月七日，唤青与纸鹿述。
 
-{% banner 纸鹿 纸鹿至麓不知路，支炉制露不止漉 avatar:https://www.zhilu.cyou/api/avatar.png bg:https://img.eseir.com/local/api/1/2025/01/1735924782935.png %}
+{% banner 纸鹿 纸鹿至麓不知路，支炉制露不止漉 avatar:https://www.zhilu.cyou/api/avatar.png bg:https://img.miasite.com/local/api/1/2025/01/1735924782935.png %}
 {% endbanner %}

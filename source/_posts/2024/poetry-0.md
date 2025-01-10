@@ -5,8 +5,8 @@ date: 2024-12-28 16:36
 updated: 2025-01-04 01:28
 categories: [诗集, 2023]
 type: story
-cover: https://img.eseir.com/local/api/1/2024/12/cloudandsea.png
-banner: https://img.eseir.com/local/api/1/2024/12/cloudandseablur.png
+cover: https://img.miasite.com/local/api/1/2024/12/cloudandsea.png
+banner: https://img.miasite.com/local/api/1/2024/12/cloudandseablur.png
 ---
 
 {% note 前絮 现在回想那时写诗的时光，真是轻浮，却又富有浪漫与希望。现在确是有些失落了，因我不知在何时丢掉了诗情与欢乐，还好，有这些诗可以让我回忆。这些诗大多无题，错字横生，于是在抄录时进行了小范围的修改。有些诗有配乐，我便也一同迁移过来了。若可以，在此，回到那盛夏！ %}
