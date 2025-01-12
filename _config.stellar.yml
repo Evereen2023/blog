@@ -46,3 +46,8 @@ inject:
     - <link rel="stylesheet" href="/static/patch-leftbar.css">
   script:
     # - <script src="/path/to/js"></script>
+
+  tag_plugins:
+  # {% image %}
+  image:
+    fancybox: false
