@@ -1,8 +1,8 @@
 ---
 title: Una博客：一个博客诞生的故事
 description: 看到纸鹿写的博客如此好看，令我羡慕不已，刚好不知道改做些什么项目，于是刚刚拥有唤青映记的我决定抄袭（bushi）纸鹿的代码，使用Nuxt写一个新博客。代号——Una。
-date:
-updated:
+date: 2025-01-12 23:22
+updated: 2025-01-12 23:22
 categories: [Una]
 type: story
 ---
